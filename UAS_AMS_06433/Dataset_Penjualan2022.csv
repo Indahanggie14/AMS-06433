@@ -1,0 +1,77 @@
+Tanggal,id,NAMA,ALAMAT,Sales,Pembayaran,Type,Jenis Kelamin
+12/1/2022,895,Rojikin,Pringlangu Pkl,Firman,Cash,Fazzio,Laki-laki
+12/1/2022,896,Abdan Khanif,Sragi Pkl,Ucup,Cash,Aerox 155,Laki-laki
+12/2/2022,897,Tarwan,JL.Perintis K Pkl,Erik,Cash,Freego,Laki-laki
+12/3/2022,898,Kasmuri,Ampelgading PML,Rojek ,Cash,Mio M3,Perempuan
+12/3/2022,899,Abdul Muuiz,Kradenan Pkl,Mubin,Cash,Soul GT,Laki-laki
+12/3/2022,900,Rofiatun,Bangsi Jepara,MJM,Cash,Fino,Perempuan
+12/3/2022,901,Ruslan,Mayor Jepara,MJM,Cash,Freego,Laki-laki
+12/5/2022,902,Anis Suhaila,Kedungwuni Pkl,Ika,Cash,Xmax,Perempuan
+12/5/2022,903,Rina Siyam S,Pringlangu Pkl,Ika,Kredit,Xmax,Perempuan
+12/5/2022,904,Kasmuri,Sidorejo Tirto Pkl,Ika,Cash,Xmax,Laki-laki
+12/5/2022,905,Septi J,Karanganyar Pkl,Ucup,Kredit,Xmax,Perempuan
+12/5/2022,906,Abdan Khanif,Sragi Pkl,Firman,Cash,Lexi s,Laki-laki
+12/5/2022,907,Tarwan,JL.Perintis K Pkl,Erik,Kredit,Fazzio,Laki-laki
+12/5/2022,908,Sri Mukti,Kajen Pkl,PTJ,Kredit,Fazzio,Laki-laki
+12/6/2022,909,Ein Kinanti,Ampelgading PML,Dol,Cash,Mio M3,Perempuan
+12/6/2022,910,Dian Septiana,Wonokerto Pkl,Titik,Cash,Fino,Perempuan
+12/7/2022,911,Rohyatun,Taman Pml,Dol,Cash,Fino,Perempuan
+12/7/2022,912,Rahmawati,Kajen Pkl,Amik,Cash,Gear 125,Perempuan
+12/7/2022,913,Nok Fathiku R,Kedungwuni Pkl,Ika,Cash,Gear 125,Laki-laki
+12/7/2022,914,Witanti Ningsih,Batang,Ika,Cash,XRide 125,Perempuan
+12/8/2022,915,Sumiyati,Kedungwuni Pkl,Ika,Kredit,Xmax,Perempuan
+12/8/2022,916,Istikaroh,Bojongminggir Pkl,Mubin,Cash,Xmax,Perempuan
+12/8/2022,917,Estisari,Kandeman BTG,Erik,Kredit,Fino,Perempuan
+12/8/2022,918,Tuyipah,Wonokerto Pkl,Ika,Cash,Freego,Perempuan
+12/8/2022,919,Umi Ulwiyah,Menguneng BTG,Dol,Kredit,Xmax,Perempuan
+12/9/2022,920,Bambang,Buaran Pkl,Ika,Cash,XRide 125,Laki-laki
+12/9/2022,921,Norma,Paninggaran Pkl,Ika,Cash,Fino,Perempuan
+12/10/2022,922,Fitria Nur ,Karangdadap Pkl,Nada,Cash,Fino,Perempuan
+12/10/2022,923,Nur Yasin,Kedungwuni Pkl,Mubin,Cash,Mio M3,Laki-laki
+12/10/2022,924,Rixi,Semarang,Nada,Cash,Lexi s,Laki-laki
+12/10/2022,925,Muaropah,Wonotunggal BTG,Titik,Kredit,Lexi s,Perempuan
+12/12/2022,926,Suyadi,Petungkriyo,Ika,Kredit,MX King,Laki-laki
+12/12/2022,927,Suroso,Bantarbolang Pml,Ipul,Cash,MX King,Laki-laki
+12/12/2022,928,Winarti,Ampelgading PML,Dol,Cash,Freego,Perempuan
+12/13/2022,929,Abdul Aziz,Wonopringgo Pkl,Ika,Cash,Tmax DX,Laki-laki
+12/13/2022,930,Siti Fatimah,Warungasem BTG,Isti,Cash,Tmax DX,Perempuan
+12/13/2022,931,Anisa Rahmatia,Taman Pml,Ipul,Cash,Tmax DX,Perempuan
+12/13/2022,932,Ita,Warungasem BTG,Erik,Kredit,Mio M3,Perempuan
+12/14/2022,933,Dona,Wonokerto Pkl,Ika,Cash,Fino,Perempuan
+12/14/2022,934,Iman,Kalikangkung Tgl,Ipul,Cash,Soul GT,Laki-laki
+12/15/2022,935,Desi,Kajen Pkl,Titik,Kredit,Fino,Perempuan
+12/15/2022,936,Fahmi,Kradenan Pkl,Isti,Cash,Aerox 155,Laki-laki
+12/15/2022,937,Syaiful,Setono Pkl ,Erik,Cash,Aerox 155,Laki-laki
+12/15/2022,938,Ajeng ,Binagriya Pkl,Ika,Cash,Fino,Perempuan
+12/16/2022,939,Kholifah,Limpung BTG,Erik,Kredit,Xmax,Perempuan
+12/1/2022,940,Suratmi ,Paninggaran Pkl,Erik,Kredit,Freego,Perempuan
+12/1/2022,941,Aang,Wonopringgo Pkl,Dol,Cash,Soul GT,Laki-laki
+12/1/2022,942,Aan,Kedungwuni Pkl,Isti,Kredit,Vario,Laki-laki
+12/1/2022,943,Nur ,Kedungwuni Pkl,Dol,Kredit,Fazzio,Perempuan
+12/1/2022,944,Frilli,JL.Kalimantan Pkl,Erik,Kredit,Fazzio,Laki-laki
+12/1/2022,945,Failasuf,JL.Karya Bakti Pkl,Ipul,Cash,XRide 125,Laki-laki
+12/1/2022,946,Vivin,Watukumpul Pml,Ika,Cash,Freego,Perempuan
+12/1/2022,947,M.Oji,Kesesi Pkl,Isti,Cash,Tmax DX,Laki-laki
+12/1/2022,948,Fahmi,Ulujami Pml,Amik,Cash,MX King,Laki-laki
+12/1/2022,949,Wisowati,Bodeh Pml,Dol,Cash,Nmax 155,Perempuan
+12/1/2022,950,Warsih,Pemalang,Ipul,Cash,Tmax DX,Perempuan
+12/1/2022,951,Khalimatus,Buaran Pkl,Isti,Kredit,Lexi s,Perempuan
+12/1/2022,952,Gusnaedin,Paninggaran Pkl,Jamal,Kredit,MX King,Laki-laki
+12/1/2022,953,H.Khalimi,Wiradesa Pkl,Ika,Cash,XRide 125,Laki-laki
+12/1/2022,954,Nur Izna,KandangSerang Pkl,Erik,Cash,Tricity,Perempuan
+12/1/2022,955,Sunari ,Surajaya Pml,Mubin,Cash,Fino,Perempuan
+12/1/2022,956,M.Muzzayin,Kraton Pkl,Haikal,Cash,Lexi s,Laki-laki
+12/1/2022,957,Adi Sugirto,Ampelgading PML,Isti,Cash,MX King,Laki-laki
+12/1/2022,958,Rizki,JL.Sumatra Pkl,Dol,Cash,Freego,Laki-laki
+12/1/2022,959,Bambang K,Wonokerto Pkl,Ika,Cash,Grand Filano,Laki-laki
+12/1/2022,960,Audina,Ambokembang Pkl,Ipul,Cash,Freego,Perempuan
+12/1/2022,961,Ana Zulfa,Bawang Btg,Ucup,Cash,Fazzio,Perempuan
+12/1/2022,962,Fitria R,Kasepuhan Btg,Ipul,Cash,Mio M3,Perempuan
+12/1/2022,963,Tari,Bandarbolang Pml,Ipul,Cash,Mio M3,Perempuan
+12/1/2022,964,Dewi Endang,Degayu Pkl,Amik,Kredit,Tmax DX,Perempuan
+12/1/2022,965,Nikmatul K,Blado BTG,Mubin,Cash,Tricity,Perempuan
+12/1/2022,966,Bambang,Bandarbolang Pml,Isti,Cash,Fazzio,Perempuan
+12/1/2022,967,Nurul,Kasepuhan Btg,Dol,Kredit,Soul GT,Laki-laki
+12/1/2022,968,Aini,Pelutan Pml,Ipul,Cash,Fino,Perempuan
+12/1/2022,969,Audina,Panj Wetan Pkl,Ika,Cash,Fazzio,Perempuan
+12/1/2022,970,Marya,Wonokerto Pkl,Jamal,Cash,Gear 125,Laki-laki
